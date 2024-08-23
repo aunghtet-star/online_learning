@@ -1,0 +1,27 @@
+:root {
+    --orange: #F97300;
+    --milk: #E2DFD0;
+    --grey: #524C42;
+    --purple: #32012F;
+}
+
+
+*{
+  box-sizing: border-box;
+}
+
+.nav-profile-btn:active {
+    background-color: white !important;
+    color: #000;
+}
+
+.nav-bar-btn, .nav-bar-btn:hover {
+    background-color: var(--purple) !important;
+    color: #fff;
+}
+
+
+p {
+    font-size: 20px;
+}
+

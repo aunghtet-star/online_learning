@@ -1,0 +1,47 @@
+:root {
+    --orange: #F97300;
+    --milk: #E2DFD0;
+    --grey: #524C42;
+    --purple: #32012F;
+}
+
+
+*{
+  box-sizing: border-box;
+}
+
+a {
+    color: #000;
+}
+/* nav bar and side bar  */
+.main-sidebar, .main-header {
+    background-color: #32012F;
+}
+
+.nav-item .nav-link, .nav-item .nav-link:hover{
+    color: #fff !important;
+
+}
+
+.nav-item:hover {
+   background-color: var(--grey);
+
+}
+
+.nav-link i {
+    margin-right: 10px;
+}
+
+#logout-btn {
+    background-color: var(--orange);
+}
+
+.content-wrapper {
+    background-color: #fff;
+    /* background-color: var(--milk); */
+}
+
+#nav-menu-button {
+    color: #fff;
+    font-size: 30px;
+}
