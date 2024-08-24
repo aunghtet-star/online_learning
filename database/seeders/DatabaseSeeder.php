@@ -29,12 +29,12 @@ class DatabaseSeeder extends Seeder
             CourseSeeder::class,
         ]);
 
-        // User::create([
-        //     "name" => "admin",
-        //     "email" => "admin@gmail.com",
-        //     "role" => "admin",
-        //     "password" => Hash::make("password"),
-        // ]);
+         User::create([
+             "name" => "admin",
+             "email" => "admin@gmail.com",
+             "role" => "admin",
+             "password" => Hash::make("password"),
+         ]);
 
 
     }
