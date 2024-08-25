@@ -9,7 +9,7 @@ class AccountController extends Controller
 {
     // account list
     public function list() {
-        $users = User::paginate(3);
+        $users = User::get();
         return view('admin.account.list', compact('users'));
     }
 }
