@@ -41,8 +41,7 @@
                                 <label for="">Price</label>
                                 <input type="text" class="form-control mt-3" disabled value="{{ $course->price }} mmk">
                             </div>
-                            <p>Kpay (09xxxxxxxxx)</p>
-                            <p>Cb pay (09xxxxxxxxx)</p>
+                            <p>Kpay (09 771982598)</p>
                             <!-- Button trigger modal -->
                             <button class="btn btn-success w-100" data-bs-toggle="modal"
                                 data-bs-target="#paymentModal">Enroll</button>
