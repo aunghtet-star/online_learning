@@ -7,11 +7,11 @@
 @section('mycss')
     <style>
         .card.course-card {
-            background-color: #0c84ff;
+            background-color: var(--purple);
         }
 
         #searchBtn {
-            background-color: #ffe900;
+            background-color: var(--orange);
         }
 
         .category-title {
@@ -19,11 +19,11 @@
         }
 
         .filter-card {
-            background-color: #0c84ff !important;
+            background-color: var(--purple) !important;
         }
 
         .nav-filter-link {
-            color: #2f2f2f;
+            color: #fff;
             text-decoration: none;
         }
 
@@ -38,7 +38,7 @@
         .course-card:hover {
             /* background-color: #000 !important; */
             transform: scale(1.05);
-            box-shadow: 5px 5px #2f2f2f !important;
+            box-shadow: 5px 5px var(--orange) !important;
 
         }
     </style>
