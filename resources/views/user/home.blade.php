@@ -11,7 +11,7 @@
         }
 
         #searchBtn {
-            background-color: var(--orange);
+            background-color: #ffe900;
         }
 
         .category-title {
