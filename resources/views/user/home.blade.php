@@ -69,7 +69,7 @@
                                 </div>
                                 @if (isset($categories))
                                     @foreach ($categories as $c)
-                                        <div class="d-flex align-items-center justify-content-between mb-3 ">
+                                        <div class="d-flex align-items-center font-weight-bold justify-content-between mb-3 ">
                                             <a class="nav-filter-link"
                                                 href="{{ route('user.filterByCategory', $c->id) }}"><span
                                                     class="">{{ $c->name }}</span></a>
@@ -113,7 +113,7 @@
                                                     class="ms-2 fw-bold">{{ $course->price }}
                                                     mmk</span></p>
                                             <a href="{{ route('user.course_details', $course->id) }}" class="btn text-white"
-                                                style="background-color: var(--orange)">See
+                                                style="background-color: #ffe900">See
                                                 Details</a>
                                         </div>
                                     </div>
