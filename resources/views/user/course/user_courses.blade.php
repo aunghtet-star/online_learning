@@ -11,7 +11,7 @@
 @section('content')
     <div class="row mt-3 justify-content-center" style="min-height: 90vh;">
         <div class="col-10">
-            <h2 class="text-center mb-3 font-weight-bold">My Courses</h2>
+            <h2 class="text-center mb-3 font-weight-bold">Courses</h2>
 
             <div class="card mt-3">
                 <!-- /.card-header -->
