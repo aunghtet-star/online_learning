@@ -15,11 +15,11 @@ a {
 }
 /* nav bar and side bar  */
 .main-sidebar, .main-header {
-    background-color: #32012F;
+    background-color: #0c84ff;
 }
 
 .nav-item .nav-link, .nav-item .nav-link:hover{
-    color: #fff !important;
+    color: #000 !important;
 
 }
 
