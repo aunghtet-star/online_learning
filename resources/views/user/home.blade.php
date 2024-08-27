@@ -15,15 +15,15 @@
         }
 
         .category-title {
-            background-color: var(--orange);
+            background-color: #fcfcfc;
         }
 
         .filter-card {
-            background-color: #0c84ff !important;
+            background-color: #ffe900 !important;
         }
 
         .nav-filter-link {
-            color: #fff;
+            color: #2f2f2f;
             text-decoration: none;
         }
 
