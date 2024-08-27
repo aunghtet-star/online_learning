@@ -36,7 +36,7 @@
     @yield('myjs')
 
     <footer >
-        <p style="background-color: #0c84ff" class="text-white p-5 mb-0 text-center">Copyright <span style="color: var(--orange)">@OnlineLearningSystemForIT</span></p>
+        <p style="background-color: #0c84ff" class="text-white p-5 mb-0 text-center">Copyright <span style="color: #ffe900">@OnlineLearningSystemForIT</span></p>
     </footer>
 
 
