@@ -38,7 +38,7 @@
         .course-card:hover {
             /* background-color: #000 !important; */
             transform: scale(1.05);
-            box-shadow: 5px 5px var(--orange) !important;
+            box-shadow: 5px 5px #2f2f2f !important;
 
         }
     </style>
