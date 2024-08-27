@@ -19,7 +19,7 @@
         }
 
         .filter-card {
-            background-color: #ffe900 !important;
+            background-color: #0c84ff !important;
         }
 
         .nav-filter-link {
