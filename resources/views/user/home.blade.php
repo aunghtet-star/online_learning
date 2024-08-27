@@ -56,7 +56,7 @@
                             <form>
                                 <div class="category-title p-3 d-flex align-items-center justify-content-between mb-3">
 
-                                    <label class="text-white fs-3" for="price-all">Categories</label>
+                                    <label class="text-dark fs-3" for="price-all">Categories</label>
                                     <span class="badge"
                                         style="background-color: var(--purple)">{{ count($categories) }}</span>
                                 </div>
