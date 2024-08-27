@@ -7,7 +7,7 @@
 @section('mycss')
     <style>
         .card.course-card {
-            background-color: var(--yellow);
+            background-color: var(--success);
         }
 
         #searchBtn {
@@ -19,7 +19,7 @@
         }
 
         .filter-card {
-            background-color: var(--yellow) !important;
+            background-color: var(--purple) !important;
         }
 
         .nav-filter-link {
