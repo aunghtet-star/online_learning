@@ -7,7 +7,7 @@
 @section('mycss')
     <style>
         .card.course-card {
-            background-color: var(--purple);
+            background-color: var(#ffe900);
         }
 
         #searchBtn {
