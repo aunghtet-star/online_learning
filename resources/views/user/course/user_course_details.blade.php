@@ -7,17 +7,17 @@
 @section('mycss')
     <style>
         .user-course-detials-card {
-            background-color: var(--purple);
+            background-color: #0c84ff;
         }
         .user-course-detials-card * {
             color: #fff;
         }
         .back-btn {
-            background-color: var(--orange);
+            background-color: #ffe900;
 
         }
         .back-btn:hover, .back-btn:active, .back-btn:focus {
-            background-color: var(--orange) !important;
+            background-color: #ffe900 !important;
         }
     </style>
 @endsection
